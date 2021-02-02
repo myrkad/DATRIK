@@ -32,4 +32,22 @@ public class Vocales extends javax.swing.JFrame {
         voz.allocate();
         voz.speak("e");
     }
+public void I(){
+        vocesI = VoiceManager.getInstance();
+        voz = vocesI.getVoice("kevin16");
+        voz.allocate();
+        voz.speak("i");
+    }
+    public void O(){
+        vocesI = VoiceManager.getInstance();
+        voz = vocesI.getVoice("kevin16");
+        voz.allocate();
+        voz.speak("o");
+    }
+    public void U(){
+        vocesI = VoiceManager.getInstance();
+        voz = vocesI.getVoice("kevin16");
+        voz.allocate();
+        voz.speak("u");
+    }
  }
