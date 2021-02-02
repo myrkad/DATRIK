@@ -127,11 +127,7 @@ public class Inicio extends javax.swing.JFrame {
 
 
     private void empezarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_empezarActionPerformed
-        //Menu m = new Menu();
-//        Datos_Personales p = new Datos_Personales();
-//        p.setVisible(true);
-//        p.setLocationRelativeTo(Inicio.this);
-//        Inicio.this.dispose();
+        
 
     }//GEN-LAST:event_empezarActionPerformed
 
